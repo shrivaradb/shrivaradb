@@ -13,7 +13,7 @@
   <!-- Profile Visitor Counter & Social Badges -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=shrivaradb&style=for-the-badge&color=0284c7&label=PROFILE+VIEWS" alt="Profile Views" />
-    <a href="https://linkedin.com/in/shrivarad_bhagwatikar" target="_blank">
+    <a href="https://linkedin.com/in/shrivarad-bhagwatikar" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:shrivarad.bhagwatikar@gmail.com">
