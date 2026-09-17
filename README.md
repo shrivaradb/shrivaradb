@@ -13,14 +13,11 @@
   <!-- Profile Visitor Counter & Social Badges -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=shrivaradb&style=for-the-badge&color=0284c7&label=PROFILE+VIEWS" alt="Profile Views" />
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <a href="https://linkedin.com/in/shrivarad_bhagwatikar" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:your.email@example.com">
+    <a href="mailto:shrivarad.bhagwatikar@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME" target="_blank">
-      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
     </a>
   </p>
 
