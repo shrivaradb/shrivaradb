@@ -78,15 +78,22 @@
 
 ---
 
-### 📈 GitHub Stats & Activity
+### ⚡ Quick Highlights & Activity
 
 <div align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=shrivaradb&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" /><br><br>
-  
-  <!-- Profile Summary Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shrivaradb&theme=tokyonight" alt="Profile Details" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shrivaradb&theme=tokyonight" alt="Top Languages" width="49%" />
+
+| 🏷️ Focus Area | 🎯 Key Specialization | 🛠️ Primary Toolset |
+| :--- | :--- | :--- |
+| **Machine Learning** | Supervised Learning, KNN, Model Evaluation | Scikit-Learn, Pandas, NumPy |
+| **Computer Vision** | Image Processing & Feature Extraction | OpenCV, Python |
+| **Business Intelligence** | End-to-End KPI Dashboards, Data Modeling | Power BI, DAX, Power Query |
+| **Database & Analytics** | Data Cleaning, Query Optimization, ETL | SQL, MySQL |
+
+<br>
+
+[![GitHub Repositories](https://img.shields.io/badge/Public_Repositories-4_Active-38BDF8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shrivaradb?tab=repositories)
+[![Open for Collaborations](https://img.shields.io/badge/Status-Open_for_Projects_&_Internships-10B981?style=for-the-badge&logo=statuspage&logoColor=white)](mailto:shrivarad.bhagwatikar@gmail.com)
+
 </div>
 
 ---
