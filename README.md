@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Header Typing SVG Banner -->
+  <!-- Header Typing Animation -->
   <a href="https://github.com/shrivaradb">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Hi+there!+%F0%9F%91%8B+I'm+Shrivarad+Bhagwatikar;Data+Science+Engineer+%7C+Machine+Learning+%7C+BI+Analytics;Building+data-driven+solutions+%26+intelligent+systems." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Hi+there!+%F0%9F%91%8B+I'm+Shrivarad+Bhagwatikar;Data+Science+Engineering+Student;Machine+Learning+%26+Computer+Vision;Power+BI+%7C+DAX+%7C+BI+Analytics;Turning+data+into+actionable+insights" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -10,13 +10,17 @@
     Passionate about turning raw data into actionable business intelligence & building ML/CV systems.
   </p>
 
-  <!-- Social & Contact Badges -->
+  <!-- Profile Visitor Counter & Social Badges -->
   <p align="center">
-    <a href="https://linkedin.com/in/shrivarad_bhagwatikar" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=shrivaradb&style=for-the-badge&color=0284c7&label=PROFILE+VIEWS" alt="Profile Views" />
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:shrivarad.bhagwatikar@gmail.com">
+    <a href="mailto:your.email@example.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME" target="_blank">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
     </a>
   </p>
 
@@ -26,7 +30,7 @@
 
 ### 🚀 About Me
 
-- 🎓 **Education:** Pre-Final Year B.Tech in **Data Science Engineering**
+- 🎓 **Education:** Pre-Final Year B.E. / B.Tech in **Data Science Engineering**
 - 🔭 **Current Focus:** Advanced Machine Learning, Predictive Modeling & End-to-End Analytics Dashboards
 - 💡 **Interests:** Computer Vision, Exploratory Data Analysis, KPI Optimization, ETL Pipelines
 - 🎯 **Goals:** Contributing to impactful open-source data science projects & solving real-world business challenges
@@ -80,20 +84,16 @@
 ### 📈 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrivaradb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrivaradb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrivaradb&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=shrivaradb&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" /><br><br>
+  
+  <!-- Profile Summary Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shrivaradb&theme=tokyonight" alt="Profile Details" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shrivaradb&theme=tokyonight" alt="Top Languages" width="49%" />
 </div>
 
 ---
 
 <div align="center">
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-
-  <sub>Crafted with passion for data & algorithms • ⭐ Star repositories you find helpful!</sub>
-
+  <sub>Crafted with passion for data & algorithms • ⭐ Feel free to explore and star repositories!</sub>
 </div>
