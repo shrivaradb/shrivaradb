@@ -2,11 +2,11 @@
 
   <!-- Header Typing Animation -->
   <a href="https://github.com/shrivaradb">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Hi+there!+%F0%9F%91%8B+I'm+Shrivarad+Bhagwatikar;Data+Science+Engineering+Student;Machine+Learning+%26+Computer+Vision;Power+BI+%7C+DAX+%7C+BI+Analytics;Turning+data+into+actionable+insights" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Hi+there!+%F0%9F%91%8B+I'm+Shrivarad+Bhagwatikar;IBM+National+Hackathon+Finalist+%F0%9F%8F%86;Data+Science+Engineering+Student;Machine+Learning+%26+Computer+Vision;Power+BI+%7C+DAX+%7C+BI+Analytics" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>Pre-Final Year Data Science Engineering Student</strong><br>
+    <strong>Pre-Final Year Data Science Engineering Student • 🏆 IBM National Hackathon Finalist</strong><br>
     Passionate about turning raw data into actionable business intelligence & building ML/CV systems.
   </p>
 
@@ -25,9 +25,17 @@
 
 ---
 
+### 🏆 Honors & Recognition
+
+- 🥇 **National Finalist – IBM National Hackathon**
+  - Selected among top teams nationwide for designing and developing innovative data & AI-driven solutions.
+
+---
+
 ### 🚀 About Me
 
 - 🎓 **Education:** Pre-Final Year B.E. / B.Tech in **Data Science Engineering**
+- 🏆 **Achievement:** **IBM National Hackathon Finalist**
 - 🔭 **Current Focus:** Advanced Machine Learning, Predictive Modeling & End-to-End Analytics Dashboards
 - 💡 **Interests:** Computer Vision, Exploratory Data Analysis, KPI Optimization, ETL Pipelines
 - 🎯 **Goals:** Contributing to impactful open-source data science projects & solving real-world business challenges
